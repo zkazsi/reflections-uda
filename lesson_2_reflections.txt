@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+      Need to do to create baseline, let git know to start tracking
+      What happens: git base files created, tracking initialized... but no commit yet (even if called initial commit)
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+      Is inbetween them, prepare / define files to be committed to repository
+
+            
